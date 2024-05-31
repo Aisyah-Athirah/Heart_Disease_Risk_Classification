@@ -1,0 +1,24 @@
+Indicators of Heart Disease dataset
+
+The following are columns name and its description for the dataset
+
+HeartDisease	      Presence of heart disease (target variable)
+BMI	                Body Mass Index
+Smoking	            Whether the individual smokes
+AlcoholDrinking	    Whether the individual drinks alcohol
+Stroke	            History of stroke
+PhysicalHealth	    Number of days of poor physical health in the past 30 days
+MentalHealth  	    Number of days of poor mental health in the past 30 days
+DiffWalking	        Difficulty walking
+Sex	                Sex of the individual
+AgeCategory	        Age category of the individual
+Race	              Race of the individual
+Diabetic	          Diabetes status
+PhysicalActivity	  Engagement in physical activity
+GenHealth	          General health status
+SleepTime	          Average sleep time per day
+Asthma	            Whether the individual has asthma
+KidneyDisease	      Whether the individual has kidney disease
+SkinCancer	        Whether the individual has skin cancer
+
+The data set is taken from Kaggle.com : https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease/data
