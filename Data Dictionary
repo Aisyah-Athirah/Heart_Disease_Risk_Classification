@@ -1,24 +1,45 @@
 Indicators of Heart Disease dataset
 
-The following are columns name and its description for the dataset
-
-HeartDisease	      Presence of heart disease (target variable)
-BMI	                Body Mass Index
-Smoking	            Whether the individual smokes
-AlcoholDrinking	    Whether the individual drinks alcohol
-Stroke	            History of stroke
-PhysicalHealth	    Number of days of poor physical health in the past 30 days
-MentalHealth  	    Number of days of poor mental health in the past 30 days
-DiffWalking	        Difficulty walking
-Sex	                Sex of the individual
-AgeCategory	        Age category of the individual
-Race	              Race of the individual
-Diabetic	          Diabetes status
-PhysicalActivity	  Engagement in physical activity
-GenHealth	          General health status
-SleepTime	          Average sleep time per day
-Asthma	            Whether the individual has asthma
-KidneyDisease	      Whether the individual has kidney disease
-SkinCancer	        Whether the individual has skin cancer
-
 The data set is taken from Kaggle.com : https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease/data
+
+Columns                          Description
+State                            U.S. state where the data was collected.
+Sex                              Sex of the individual (Male or Female).
+GeneralHealth                    General health condition of the individual (Excellent, Very good, Good, Fair, Poor).
+PhysicalHealthDays               Number of days in the past 30 days when the individual's physical health was not good.
+MentalHealthDays                 Number of days in the past 30 days when the individual's mental health was not good.
+LastCheckupTime                  Time since the individual's last medical checkup.
+PhysicalActivities               Indicates whether the individual engages in physical activity or exercise (Yes or No).
+SleepHours                       Average number of hours of sleep the individual gets in a 24-hour period.
+RemovedTeeth                     Number of teeth removed due to decay or gum disease.
+HadHeartAttack                   Indicates whether the individual has ever had a heart attack (Yes or No).
+HadAngina                        Indicates whether the individual has ever had angina or coronary heart disease (Yes or No).
+HadStroke                        Indicates whether the individual has had a stroke (Yes or No).
+HadAsthma                        Indicates whether the individual has asthma (Yes or No).
+HadSkinCancer                    Indicates whether the individual has skin cancer (Yes or No).
+HadCOPD                          Indicates whether the individual has Chronic Obstructive Pulmonary Disease (Yes or No).
+HadDepressiveDisorder            Indicates whether the individual has ever been diagnosed with a depressive disorder (Yes or No).
+HadKidneyDisease                 Indicates whether the individual has kidney disease (Yes or No).
+HadArthritis                     Indicates whether the individual has arthritis (Yes or No).
+HadDiabetes                      Indicates whether the individual has diabetes (Yes or No).
+DeafOrHardOfHearing              Indicates whether the individual is deaf or hard of hearing (Yes or No).
+BlindOrVisionDifficulty          Indicates whether the individual is blind or has serious difficulty seeing (Yes or No).
+DifficultyConcentrating          Indicates whether the individual has difficulty concentrating (Yes or No).
+DifficultyWalking                Indicates whether the individual has serious difficulty walking or climbing stairs (Yes or No).
+DifficultyDressingBathing        Indicates whether the individual has difficulty dressing or bathing (Yes or No).
+DifficultyErrands                Indicates whether the individual has difficulty doing errands alone (Yes or No).
+SmokerStatus                     Indicates the smoking status of the individual (Smoker, Non-Smoker).
+ECigaretteUsage                  Indicates whether the individual uses e-cigarettes (Yes or No).
+ChestScan                        Indicates whether the individual has had a chest scan (Yes or No).
+RaceEthnicityCategory            Race/ethnicity category of the individual (e.g., White, Black, Asian, Hispanic).
+AgeCategory                      Age category of the individual (e.g., 18-24, 25-29, etc.).
+HeightInMeters                   Height of the individual in meters.
+WeightInKilograms                Weight of the individual in kilograms.
+BMI                              Body Mass Index of the individual.
+AlcoholDrinkers                  Indicates whether the individual consumes alcohol frequently (Yes or No).
+HIVTesting                       Indicates whether the individual has been tested for HIV (Yes or No).
+FluVaxLast12                     Indicates whether the individual has received a flu vaccine in the last 12 months (Yes or No).
+PneumoVaxEver                    Indicates whether the individual has ever received a pneumococcal vaccine (Yes or No).
+TetanusLast10Tdap                Indicates whether the individual has received a tetanus vaccine in the last 10 years (Yes or No).
+HighRiskLastYear                 Indicates whether the individual was considered high risk in the last year (Yes or No).
+CovidPos                         Indicates whether the individual has tested positive for COVID-19 (Yes or No).
