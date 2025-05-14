@@ -8,7 +8,7 @@ This project presents a machine learning solution for predicting heart disease r
 - Goal: Predict risk of heart disease from personal, lifestyle, and clinical factors
 - Source: [Kaggle Dataset](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease)
 
-### Methodology
+#### Methodology
 
 - Data Cleaning: Handled missing values using random and KNN imputation
 - Outlier Handling: IQR and Z-score methods
