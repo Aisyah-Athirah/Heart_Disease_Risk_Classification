@@ -2,7 +2,7 @@
 
 This project presents a machine learning solution for predicting heart disease risk using a **Random Forest Classifier** trained on data from the CDC. It showcases the full ML pipeline: from data preprocessing and feature selection to model training and evaluation.
 
-## 📊 Project Overview
+## Project Overview
 
 - Dataset: CDC Heart Disease Indicators (2022)
 - Goal: Predict risk of heart disease from personal, lifestyle, and clinical factors
