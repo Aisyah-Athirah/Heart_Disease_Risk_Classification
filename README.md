@@ -8,7 +8,7 @@ This project presents a machine learning solution for predicting heart disease r
 - Goal: Predict risk of heart disease from personal, lifestyle, and clinical factors
 - Source: [Kaggle Dataset](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease)
 
-#### ●    Methodology
+#### ♦️ Methodology
 
 - Data Cleaning: Handled missing values using random and KNN imputation
 - Outlier Handling: IQR and Z-score methods
@@ -17,7 +17,7 @@ This project presents a machine learning solution for predicting heart disease r
 - Model Training: Random Forest Classifier (`scikit-learn`)
 - Evaluation Metrics: Accuracy, Precision, Recall, F1 Score, ROC AUC
 
-#### ●    Results
+#### ♦️ Results
 
 | Metric       | Score   |
 |--------------|---------|
@@ -27,12 +27,12 @@ This project presents a machine learning solution for predicting heart disease r
 | F1-Score     | 97.38%  |
 | ROC AUC      | 99.60%  |
 
-#### ●    Visuals
+#### ♦️ Visuals
 
 - Confusion Matrix showing true/false predictions
 - ROC Curve indicating excellent model discrimination
 
-#### ●    Tech Stack
+#### ♦️ Tech Stack
 
 - Python
 - Pandas, NumPy
